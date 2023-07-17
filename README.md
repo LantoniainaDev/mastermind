@@ -9,7 +9,7 @@ backspace pour effacer un chiffre
 
 # didactiel du jeu
 voici un appercu de l'interface
-<img src="./screenshot.exe"/>
+<img src="./screenshot.png"/>
 
 a b c d sont les chiffres a deviner
 e est le nombre de chiffres correctes mais au mauvais emplacement
